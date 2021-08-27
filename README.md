@@ -7,3 +7,7 @@ url：https://tensorflow.google.cn/addons/tutorials/networks_seq2seq_nmt
 
 借此记录，需要的可以自行拿走
 
+代码详细讲解链接：https://blog.csdn.net/qq_22170967/article/details/119942051
+
+感谢大家的支持！
+
